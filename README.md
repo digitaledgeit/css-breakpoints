@@ -1,11 +1,10 @@
 # sass-named-breakpoints
 
-Mixin for wrapping styles in predefined breakpoints.
+Mixin for wrapping styles in predefined breakpoints. (DEPRECIATED)
 
-Features:
-
-- breakpoints are set in `em`s and scale with the user's base font-size
-- configurable named breakpoints
+<h2 style="color: orange">
+Please use [sass-breakpoints](https://www.npmjs.com/package/sass-breakpoints) instead.
+</h1>
 
 ## Installation
 
